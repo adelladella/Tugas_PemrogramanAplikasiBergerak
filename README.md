@@ -1,9 +1,10 @@
-### Tugas pertemuan4 
+### Tugas pertemuan4
+
 # Mata Kuliah Pemrograman Aplikasi Bergerak
 
-Nama: Adella Putri 
+Nama: Adella Putri
 
-NIM: 2409116006 
+NIM: 2409116006
 
 Kelas : A Sistem Informasi 2024
 
@@ -30,7 +31,9 @@ Ketika tombol Add ditekan pada salah satu produk, misalnya Laptop Gaming, maka s
 Setiap kali tombol Add ditekan:
 
 - Angka indikator pada ikon keranjang di pojok kanan atas akan bertambah secara otomatis.
+
 - Jika produk yang sama ditambahkan sebanyak tiga kali, maka indikator pada ikon keranjang akan menunjukkan angka 3.
+
 - Sistem akan menghitung jumlah produk yang sama sebagai penambahan kuantitas, bukan sebagai item baru yang berbeda.
 
 Hal ini menunjukkan bahwa sistem telah mampu mengelola penambahan kuantitas produk secara akurat dan real-time.
